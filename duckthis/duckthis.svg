@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="340.65841"
-     inkscape:cy="687.35736"
+     inkscape:zoom="0.7"
+     inkscape:cx="734.25473"
+     inkscape:cy="245.53466"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -37,7 +37,13 @@
      inkscape:window-height="1017"
      inkscape:window-x="0"
      inkscape:window-y="1227"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-page="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -93,5 +99,10 @@
        id="path3782"
        style="font-size:79.95159911999998315px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ultra;-inkscape-font-specification:Ultra"
        d="m 665.58163,551.83903 c -10e-6,-1.32731 0.26025,-2.60258 0.78077,-3.82581 0.54654,-1.2232 1.24924,-2.27725 2.1081,-3.16215 0.88488,-0.88486 1.92591,-1.58756 3.12311,-2.10809 1.22321,-0.54653 2.5245,-0.8198 3.90389,-0.81982 1.32731,2e-5 2.60257,0.27329 3.82581,0.81982 1.2232,0.52053 2.27725,1.22323 3.16215,2.10809 0.88486,0.8849 1.58756,1.93895 2.10809,3.16215 0.54653,1.22323 0.8198,2.4985 0.81982,3.82581 -2e-5,1.37938 -0.27329,2.66766 -0.81982,3.86485 -0.52053,1.19719 -1.22323,2.23823 -2.10809,3.12311 -0.8849,0.88488 -1.93895,1.58758 -3.16215,2.1081 -1.22324,0.54654 -2.4985,0.81981 -3.82581,0.81981 -1.37939,0 -2.68068,-0.27327 -3.90389,-0.81981 -1.1972,-0.52052 -2.23823,-1.22322 -3.12311,-2.1081 -0.85886,-0.88488 -1.56156,-1.92592 -2.1081,-3.12311 -0.52052,-1.19719 -0.78078,-2.48547 -0.78077,-3.86485" />
+    <path
+       style="color:#000000;fill:#000000;fill-opacity:0.03070302000000000;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 8.2415531,0 735.85293,0 c 4.56582,0 8.24155,5.1335543 8.24155,11.510211 l 0,1029.341789 c 0,6.3766 -3.67573,11.5102 -8.24155,11.5102 l -727.6113769,0 C 3.6757326,1052.3622 0,1047.2286 0,1040.852 L 0,11.510211 C 0,5.1335543 3.6757326,0 8.2415531,0 z"
+       id="rect2990"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
